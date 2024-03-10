@@ -1,0 +1,1770 @@
+<testsuites id="" name="" tests="48" failures="9" skipped="0" errors="0" time="113.389974">
+<testsuite name="BusinessPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="chromium" tests="4" failures="0" skipped="0" time="51.542" errors="0">
+<testcase name="validate Business special table" classname="BusinessPage.spec.js" time="12.494">
+</testcase>
+<testcase name="Validate Card type" classname="BusinessPage.spec.js" time="11.564">
+</testcase>
+<testcase name="Validate Rate" classname="BusinessPage.spec.js" time="13.864">
+<system-out>
+<![CDATA[--rate --: Term Deposit (1 year)
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="BusinessPage.spec.js" time="13.62">
+<system-out>
+<![CDATA[--rate --: Fixed returns on money locked in for a set period.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="HomePage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="chromium" tests="3" failures="0" skipped="0" time="22.893" errors="0">
+<testcase name="Home Page UI testing › Validate home Page Title" classname="HomePage.spec.js" time="8.331">
+</testcase>
+<testcase name="Home Page UI testing › verify landing url" classname="HomePage.spec.js" time="7.969">
+</testcase>
+<testcase name="Home Page UI testing › Validate Personal category in the home page" classname="HomePage.spec.js" time="6.593">
+</testcase>
+</testsuite>
+<testsuite name="PersonalPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="chromium" tests="5" failures="0" skipped="0" time="31.06" errors="0">
+<testcase name="validate Personal special rate data" classname="PersonalPage.spec.js" time="9.693">
+</testcase>
+<testcase name="Validate Card type" classname="PersonalPage.spec.js" time="5.508">
+</testcase>
+<testcase name="Validate Rate" classname="PersonalPage.spec.js" time="5.639">
+<system-out>
+<![CDATA[--rate --: 6.89%p.a.
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="PersonalPage.spec.js" time="5.44">
+<system-out>
+<![CDATA[--rate --: 2 years fixed
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Terms" classname="PersonalPage.spec.js" time="4.78">
+<system-out>
+<![CDATA[--rate --: 2 years fixed. Min 20% equity.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="BusinessPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="firefox" tests="4" failures="0" skipped="0" time="43.803" errors="0">
+<testcase name="validate Business special table" classname="BusinessPage.spec.js" time="9.848">
+</testcase>
+<testcase name="Validate Card type" classname="BusinessPage.spec.js" time="9.305">
+</testcase>
+<testcase name="Validate Rate" classname="BusinessPage.spec.js" time="9.485">
+<system-out>
+<![CDATA[--rate --: 
+                        Term Deposit (1 year)
+                    
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="BusinessPage.spec.js" time="15.165">
+<system-out>
+<![CDATA[--rate --: Fixed returns on money locked in for a set period.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="HomePage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="firefox" tests="3" failures="0" skipped="0" time="25.452" errors="0">
+<testcase name="Home Page UI testing › Validate home Page Title" classname="HomePage.spec.js" time="6.727">
+</testcase>
+<testcase name="Home Page UI testing › verify landing url" classname="HomePage.spec.js" time="7.13">
+</testcase>
+<testcase name="Home Page UI testing › Validate Personal category in the home page" classname="HomePage.spec.js" time="11.595">
+</testcase>
+</testsuite>
+<testsuite name="PersonalPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="firefox" tests="5" failures="0" skipped="0" time="46.917" errors="0">
+<testcase name="validate Personal special rate data" classname="PersonalPage.spec.js" time="11.872">
+</testcase>
+<testcase name="Validate Card type" classname="PersonalPage.spec.js" time="7.889">
+</testcase>
+<testcase name="Validate Rate" classname="PersonalPage.spec.js" time="6.449">
+<system-out>
+<![CDATA[--rate --: 6.89%p.a.
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="PersonalPage.spec.js" time="7.394">
+<system-out>
+<![CDATA[--rate --: 2 years fixed
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Terms" classname="PersonalPage.spec.js" time="13.313">
+<system-out>
+<![CDATA[--rate --: 2 years fixed. Min 20% equity.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="BusinessPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="webkit" tests="4" failures="0" skipped="0" time="72.005" errors="0">
+<testcase name="validate Business special table" classname="BusinessPage.spec.js" time="19.682">
+</testcase>
+<testcase name="Validate Card type" classname="BusinessPage.spec.js" time="17.708">
+</testcase>
+<testcase name="Validate Rate" classname="BusinessPage.spec.js" time="16.356">
+<system-out>
+<![CDATA[--rate --: 
+                        Term Deposit (1 year)
+                    
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="BusinessPage.spec.js" time="18.259">
+<system-out>
+<![CDATA[--rate --: Fixed returns on money locked in for a set period.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="HomePage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="webkit" tests="3" failures="0" skipped="0" time="32.58" errors="0">
+<testcase name="Home Page UI testing › Validate home Page Title" classname="HomePage.spec.js" time="10.742">
+</testcase>
+<testcase name="Home Page UI testing › verify landing url" classname="HomePage.spec.js" time="11.122">
+</testcase>
+<testcase name="Home Page UI testing › Validate Personal category in the home page" classname="HomePage.spec.js" time="10.716">
+</testcase>
+</testsuite>
+<testsuite name="PersonalPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="webkit" tests="5" failures="0" skipped="0" time="65.719" errors="0">
+<testcase name="validate Personal special rate data" classname="PersonalPage.spec.js" time="13.109">
+</testcase>
+<testcase name="Validate Card type" classname="PersonalPage.spec.js" time="13.188">
+</testcase>
+<testcase name="Validate Rate" classname="PersonalPage.spec.js" time="13.726">
+<system-out>
+<![CDATA[--rate --: 6.89%p.a.
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Sub Heading" classname="PersonalPage.spec.js" time="13.152">
+<system-out>
+<![CDATA[--rate --: 2 years fixed
+]]>
+</system-out>
+</testcase>
+<testcase name="Validate Terms" classname="PersonalPage.spec.js" time="12.544">
+<system-out>
+<![CDATA[--rate --: 2 years fixed. Min 20% equity.
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="BusinessPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="Mobile Chrome" tests="4" failures="4" skipped="0" time="120.028" errors="0">
+<testcase name="validate Business special table" classname="BusinessPage.spec.js" time="30.009">
+<failure message="BusinessPage.spec.js:17:5 validate Business special table" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › BusinessPage.spec.js:17:5 › validate Business special table ────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       8 | var business
+       9 |
+    > 10 | test.beforeEach(async ({ page }) => {
+         |      ^
+      11 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      12 |     home = new HomePage(page)
+      13 |     business = new BusinessPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:10:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[2]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:14:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Card type" classname="BusinessPage.spec.js" time="30.011">
+<failure message="BusinessPage.spec.js:24:5 Validate Card type" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › BusinessPage.spec.js:24:5 › Validate Card type ─────────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       8 | var business
+       9 |
+    > 10 | test.beforeEach(async ({ page }) => {
+         |      ^
+      11 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      12 |     home = new HomePage(page)
+      13 |     business = new BusinessPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:10:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[2]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:14:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Rate" classname="BusinessPage.spec.js" time="30.005">
+<failure message="BusinessPage.spec.js:31:5 Validate Rate" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › BusinessPage.spec.js:31:5 › Validate Rate ──────────────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       8 | var business
+       9 |
+    > 10 | test.beforeEach(async ({ page }) => {
+         |      ^
+      11 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      12 |     home = new HomePage(page)
+      13 |     business = new BusinessPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:10:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[2]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:14:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Sub Heading" classname="BusinessPage.spec.js" time="30.003">
+<failure message="BusinessPage.spec.js:37:5 Validate Sub Heading" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › BusinessPage.spec.js:37:5 › Validate Sub Heading ───────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       8 | var business
+       9 |
+    > 10 | test.beforeEach(async ({ page }) => {
+         |      ^
+      11 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      12 |     home = new HomePage(page)
+      13 |     business = new BusinessPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:10:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[2]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\BusinessPage.spec.js:14:16
+]]>
+</failure>
+</testcase>
+</testsuite>
+<testsuite name="HomePage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="Mobile Chrome" tests="3" failures="0" skipped="0" time="25.089" errors="0">
+<testcase name="Home Page UI testing › Validate home Page Title" classname="HomePage.spec.js" time="8.294">
+</testcase>
+<testcase name="Home Page UI testing › verify landing url" classname="HomePage.spec.js" time="8.463">
+</testcase>
+<testcase name="Home Page UI testing › Validate Personal category in the home page" classname="HomePage.spec.js" time="8.332">
+</testcase>
+</testsuite>
+<testsuite name="PersonalPage.spec.js" timestamp="2024-03-10T06:23:24.771Z" hostname="Mobile Chrome" tests="5" failures="5" skipped="0" time="150.042" errors="0">
+<testcase name="validate Personal special rate data" classname="PersonalPage.spec.js" time="30.007">
+<failure message="PersonalPage.spec.js:16:5 validate Personal special rate data" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › PersonalPage.spec.js:16:5 › validate Personal special rate data ────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       6 | let personal
+       7 |
+    >  8 | test.beforeEach(async ({ page }) => {
+         |      ^
+       9 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      10 |     home = new HomePage(page)
+      11 |     personal = new PersonalPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:8:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[1]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #34
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #35
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #36
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #37
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:12:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Card type" classname="PersonalPage.spec.js" time="30.009">
+<failure message="PersonalPage.spec.js:23:5 Validate Card type" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › PersonalPage.spec.js:23:5 › Validate Card type ─────────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       6 | let personal
+       7 |
+    >  8 | test.beforeEach(async ({ page }) => {
+         |      ^
+       9 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      10 |     home = new HomePage(page)
+      11 |     personal = new PersonalPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:8:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[1]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #34
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #35
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #36
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:12:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Rate" classname="PersonalPage.spec.js" time="30.013">
+<failure message="PersonalPage.spec.js:31:5 Validate Rate" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › PersonalPage.spec.js:31:5 › Validate Rate ──────────────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       6 | let personal
+       7 |
+    >  8 | test.beforeEach(async ({ page }) => {
+         |      ^
+       9 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      10 |     home = new HomePage(page)
+      11 |     personal = new PersonalPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:8:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[1]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #34
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #35
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #36
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #37
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:12:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Sub Heading" classname="PersonalPage.spec.js" time="30.002">
+<failure message="PersonalPage.spec.js:38:5 Validate Sub Heading" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › PersonalPage.spec.js:38:5 › Validate Sub Heading ───────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       6 | let personal
+       7 |
+    >  8 | test.beforeEach(async ({ page }) => {
+         |      ^
+       9 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      10 |     home = new HomePage(page)
+      11 |     personal = new PersonalPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:8:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[1]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #34
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #35
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #36
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #37
+      -   waiting 500ms
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:12:16
+]]>
+</failure>
+</testcase>
+<testcase name="Validate Terms" classname="PersonalPage.spec.js" time="30.011">
+<failure message="PersonalPage.spec.js:45:5 Validate Terms" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › PersonalPage.spec.js:45:5 › Validate Terms ─────────────────────────────────────
+
+    Test timeout of 30000ms exceeded while running "beforeEach" hook.
+
+       6 | let personal
+       7 |
+    >  8 | test.beforeEach(async ({ page }) => {
+         |      ^
+       9 |     await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+      10 |     home = new HomePage(page)
+      11 |     personal = new PersonalPage(page)
+
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:8:6
+
+    Error: locator.click: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('//nav[@class="primary-nav-desktop"]//div[2]//li[1]')
+      -   locator resolved to <li class="primary-nav-desktop__item primary-nav-des…>…</li>
+      - attempting click action
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #1
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #2
+      -   waiting 20ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #3
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #4
+      -   waiting 100ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #5
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #6
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #7
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #8
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #9
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #10
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #11
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #12
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #13
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #14
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #15
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #16
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #17
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #18
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #19
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #20
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #21
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #22
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #23
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #24
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #25
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #26
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #27
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #28
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #29
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #30
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #31
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #32
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #33
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #34
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #35
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #36
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #37
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #38
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #39
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+      -   element is not visible
+      - retrying click action, attempt #40
+      -   waiting 500ms
+      -   waiting for element to be visible, enabled and stable
+
+
+       at ..\Pages\HomePage.js:18
+
+      16 |
+      17 |         async clickL1MenuItem(position){
+    > 18 |             await this.page.locator(this.topMenuItemsL1+'['+position+']').click()
+         |                                                                           ^
+      19 |             //await this.page.waitForTimeout(10000);
+      20 |         }
+      21 |     }
+
+        at HomePage.clickL1MenuItem (D:\Programming\Playwright\KiwiBank-Web\Pages\HomePage.js:18:75)
+        at D:\Programming\Playwright\KiwiBank-Web\tests\PersonalPage.spec.js:12:16
+]]>
+</failure>
+</testcase>
+</testsuite>
+</testsuites>
