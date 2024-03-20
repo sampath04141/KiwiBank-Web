@@ -24,7 +24,8 @@
     - Allure
 
 - CI/CD
-    - Azure
+    - Azure, Git integration
+    - Junit report integration
 
 
 
