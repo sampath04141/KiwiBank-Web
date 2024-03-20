@@ -16,9 +16,16 @@ steps:
     displayName: Run Playwright tests
     env:
       CI: "true"
+
   - task: PublishPipelineArtifact@1
     inputs:
       targetPath: 'playwright-report'
       artifact: 'Report'
       publishLocation: 'pipeline'
+    condition: 'succeededOrFailed()'
+    
+  - task: PublishTestResults@2
+    inputs:
+      testResultsFormat: 'JUnit'
+      testResultsFiles: '**/e2e-*.xml'
     condition: 'succeededOrFailed()'

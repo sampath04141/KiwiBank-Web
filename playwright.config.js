@@ -22,8 +22,8 @@ module.exports = defineConfig({
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: [['html'],
-  ['junit', { outputFile: 'results.xml' }],
-  ['json', { outputFile: 'results.json' }],
+  ['junit', { outputFile: 'test-results/e2e-results.xml' }],
+  ['json', { outputFile: 'test-results/e2e-results.json' }],
   ['allure-playwright', { outputFolder: 'allure-results' }]],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
