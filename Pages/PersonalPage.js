@@ -1,6 +1,5 @@
 // JavaScript source code
-exports.PersonalPage =
-    class PersonalPage {
+export class PersonalPage {
 
         constructor(page) {
             this.page = page

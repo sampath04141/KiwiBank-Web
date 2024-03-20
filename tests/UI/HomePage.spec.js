@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test')
-import { HomePage } from '../Pages/HomePage'
+import { HomePage } from '../../Pages/HomePage'
 
 test.describe('Home Page UI testing', async () => {
     test.beforeEach(async ({ page }) => {

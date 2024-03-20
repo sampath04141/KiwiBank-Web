@@ -1,6 +1,5 @@
 // JavaScript source code
-exports.BusinessPage =
-  class BusinessPage {
+export class BusinessPage {
     constructor(page) {
       this.page = page
       this.productPromoHeading = '.product-promos__heading'

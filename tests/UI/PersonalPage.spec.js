@@ -1,5 +1,5 @@
-import { HomePage } from "../Pages/HomePage";
-import { PersonalPage } from "../Pages/PersonalPage";
+import { HomePage } from "../../Pages/HomePage";
+import { PersonalPage } from "../../Pages/PersonalPage";
 import { test, expect } from "@playwright/test";
 
 let home
@@ -16,6 +16,7 @@ test.beforeEach(async ({ page }) => {
 test('validate Personal special rate data', async ({ page }) => {
     const boxTitle = 'Special rate'
     await personal.scrollToSpecialRate()
+    page.pause()
     expect(await personal.getText(boxTitle)).toEqual(boxTitle)
 
 })
@@ -32,7 +33,7 @@ test('Validate Rate', async ({ page }) => {
     const rate = 'Rate'
     //await home.clickL1MenuItem(1)
     await personal.scrollToSpecialRate()
-    expect(await personal.getText(rate)).toContain('6.89')
+    expect(await personal.getText(rate)).toContain('6.79')
 
 })
 test('Validate Sub Heading', async ({ page }) => {

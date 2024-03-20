@@ -1,6 +1,5 @@
 // JavaScript source code
-exports.HomePage =
-    class HomePage {
+export class HomePage {
         constructor(page) {
             this.page = page
             this.topMenuItemsL1 = '//nav[@class="primary-nav-desktop"]//div[2]//li'

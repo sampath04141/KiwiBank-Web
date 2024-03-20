@@ -1,7 +1,7 @@
-import { HomePage } from "../Pages/HomePage";
+import { HomePage } from "../../Pages/HomePage";
 
 import { test, expect } from "@playwright/test";
-import { BusinessPage } from "../Pages/BusinessPage";
+import { BusinessPage } from "../../Pages/BusinessPage";
 
 
 var home
