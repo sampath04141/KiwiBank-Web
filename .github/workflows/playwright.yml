@@ -21,3 +21,4 @@ steps:
       targetPath: 'playwright-report'
       artifact: 'Report'
       publishLocation: 'pipeline'
+    condition: 'successdedOrFailed()' 
