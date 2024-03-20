@@ -14,6 +14,10 @@ test.beforeEach(async ({ page }) => {
     await home.clickL1MenuItem(2)
 })
 
+test.afterEach(async ({ page }) => {
+    await page.screenshot({ path: 'test-results/screenshots/' + Date.now() + '-screenshot.png' })
+})
+
 test('validate Business special table', async ({ page }) => {
     const boxTitle = 'Special'
     await business.scrollToPromo()

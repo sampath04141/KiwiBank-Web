@@ -7,6 +7,16 @@
 - Retries
 - CI/CD Integration
 
+## Covered
+
+- E2E
+- API (Dummy API- GET, POST, PUT)
+- Visual Testing
+    * Full Page visual testing
+    * Section visual testing
+    * visual testing with Masking
+- Accessibility Testing
+
 ## Tech Stack:
 
 - Language:

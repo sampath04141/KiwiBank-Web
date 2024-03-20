@@ -13,6 +13,10 @@ test.beforeEach(async ({ page }) => {
 
 })
 
+test.afterEach(async ({ page }) => {
+    await page.screenshot({ path: 'test-results/screenshots/' + Date.now() + '-screenshot.png' })
+})
+
 test('validate Personal special rate data', async ({ page }) => {
     const boxTitle = 'Special rate'
     await personal.scrollToSpecialRate()
@@ -23,7 +27,7 @@ test('validate Personal special rate data', async ({ page }) => {
 
 test('Validate Card type', async ({ page }) => {
     const cardType = 'Home loans'
-   // await home.clickL1MenuItem(1)
+    // await home.clickL1MenuItem(1)
     await personal.scrollToSpecialRate()
     expect(await personal.getText(cardType)).toEqual(cardType)
 
