@@ -1,26 +1,23 @@
 name: Playwright Tests
 trigger:
   - master
-
 pool:
   vmImage: ubuntu-latest
-
 steps:
   - task: NodeTool@0
     inputs:
-      versionSpec: '18'
-    displayName: 'Install Node.js'
+      versionSpec: "18"
+    displayName: Install Node.js
   - script: npm ci
-    displayName: 'npm ci'
+    displayName: npm ci
   - script: npx playwright install --with-deps
-    displayName: 'Install Playwright browsers'
-  # - script: npm i -D @playwright/test allure-playwright
-  #   displayName: 'Install allure-playwright'
-  # - script: npm i -g allure-commandline --save-dev
-  #   displayName: 'Install allure-commandline' 
+    displayName: Install Playwright browsers
   - script: npx playwright test
-    displayName: 'Run Playwright tests'
-  # - script: allure generate allure-results -o allure-report --clean
-  #   displayName: 'generate allure-report'
+    displayName: Run Playwright tests
     env:
       CI: "true"
+  - task: PublishPipelineArtifact@1
+    inputs:
+      targetPath: 'playwright-report'
+      artifact: 'Report'
+      publishLocation: 'pipeline'
