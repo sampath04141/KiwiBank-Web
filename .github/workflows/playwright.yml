@@ -17,7 +17,7 @@ steps:
   # - script: npm i -D @playwright/test allure-playwright
   #   displayName: 'Install allure-playwright'
   # - script: npm i -g allure-commandline --save-dev
-  #   displayName: 'Install allure-commandline'
+  #   displayName: 'Install allure-commandline' 
   - script: npx playwright test
     displayName: 'Run Playwright tests'
   # - script: allure generate allure-results -o allure-report --clean
