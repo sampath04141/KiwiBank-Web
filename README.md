@@ -1,6 +1,31 @@
-Playwright project with Javascript
-followed page object modle
-added allure report, junit and json
-run parall
-support multiple browsers
-lined with Assure pipeline
+
+## Features
+
+- POM Modle
+- Multiple Browser support
+- Reports
+- Retries
+- CI/CD Integration
+
+## Tech Stack:
+
+- Language:
+    - Playwright
+    - Javascript
+
+- Framework/s:
+    - Plawright
+
+
+- Reporting:
+    - HTML
+    - Json
+    - Junit
+    - Allure
+
+- CI/CD
+    - Azure
+
+
+
+
