@@ -1,11 +1,5 @@
 
-## Features
-
-- POM Modle
-- Multiple Browser support
-- Reports
-- Retries
-- CI/CD Integration
+# KIWI Bank Web automation with Playwright 
 
 ## Covered
 
@@ -16,6 +10,17 @@
     * Section visual testing
     * visual testing with Masking
 - Accessibility Testing
+    * Playwright assersion 
+    * WCAG 2.0 guide lines
+
+## Features
+
+- POM Modle
+- Multiple Browser support
+- Reports
+- Retries
+- CI/CD Integration
+
 
 ## Tech Stack:
 

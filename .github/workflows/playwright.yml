@@ -22,10 +22,10 @@ steps:
       targetPath: 'playwright-report'
       artifact: 'Report'
       publishLocation: 'pipeline'
-    condition: 'succeededOrFailed()'
+    condition: 'always()'
     
   - task: PublishTestResults@2
     inputs:
       testResultsFormat: 'JUnit'
       testResultsFiles: '**/e2e-*.xml'
-    condition: 'succeededOrFailed()'
+    condition: 'always()'
