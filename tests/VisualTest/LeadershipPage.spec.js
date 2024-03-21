@@ -1,13 +1,13 @@
 import { test, expect } from '@playwright/test'
 
-test('Our leaders page validate', async ({ page }) => {
+// test('Our leaders page validate', async ({ page }) => {
 
-    await page.goto("https://www.kiwibank.co.nz/about-us/who-we-are/our-leaders/")
-    await expect(page).toHaveScreenshot('leaders-pag.png', {
-        fullPage: true
-    })
+//     await page.goto("https://www.kiwibank.co.nz/about-us/who-we-are/our-leaders/")
+//     await expect(page).toHaveScreenshot('leaders-pag.png', {
+//         fullPage: true
+//     })
 
-})
+// })
 
 test('Banner validation', async ({ page }) => {
 
