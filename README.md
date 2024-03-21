@@ -10,7 +10,7 @@
     * Section visual testing
     * visual testing with Masking
 - Accessibility Testing
-    * Playwright assersion 
+    * Playwright assertion  
     * WCAG 2.0 guide lines
 
 ## Features
