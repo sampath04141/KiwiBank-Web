@@ -3,7 +3,7 @@ import { HomePage } from '../../Pages/HomePage'
 
 test.describe('Home Page UI testing', async () => {
     test.beforeEach(async ({ page }) => {
-        await page.goto('https://www.kiwibank.co.nz/personal-banking/')
+        await page.goto('/')
     })
 
     test('Validate home Page Title', async ({ page }) => {

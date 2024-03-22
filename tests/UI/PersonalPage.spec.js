@@ -9,7 +9,7 @@ let personal
 
 test.beforeEach(async ({ page }) => {
 
-    await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+    await page.goto('/', { timeout: 60000 })
     home = new HomePage(page)
     personal = new PersonalPage(page)
     await home.clickL1MenuItem(1)

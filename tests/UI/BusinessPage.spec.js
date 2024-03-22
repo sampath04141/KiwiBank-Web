@@ -8,7 +8,7 @@ var home
 var business
 
 test.beforeEach(async ({ page }) => {
-    await page.goto('https://www.kiwibank.co.nz/personal-banking/', { timeout: 60000 })
+    await page.goto('/', { timeout: 60000 })
     home = new HomePage(page)
     business = new BusinessPage(page)
     await home.clickL1MenuItem(2)
