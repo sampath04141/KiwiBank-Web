@@ -17,7 +17,6 @@ test.describe('Home Page UI testing', async () => {
 
     test('Validate Personal category in the home page', async ({ page }) => {
         const menuListL1 = ['Personal', 'Business', 'Join Kiwibank', 'Contact us', 'About us', 'Search', 'Login']
-
         const home = new HomePage(page)
 
         for (var i = 1; i <= menuListL1; i++) {
