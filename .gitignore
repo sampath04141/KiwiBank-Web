@@ -7,6 +7,6 @@ node_modules/
 /allure-results/
 /.vs/
 /tests-examples/
-/results.json/
-/results.xml/
+/test-results/
+/LeadershipPage.spec.js-snapshots/
 

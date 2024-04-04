@@ -46,11 +46,28 @@ module.exports = defineConfig({
     {
       name: 'CI',
       use: {
-        ...devices['Desktop Chrome'],
+        ...devices['Desktop Chrome'], 
         baseURL: "https://www.kiwibank.co.nz/personal-banking/",
       },
       testMatch: ["**/tests/UI/*.spec.js", "**/tests/API/*.spec.js"]
     },
+    {
+      name: 'AT',
+      use: {
+        ...devices['Desktop Chrome'], 
+        baseURL: "https://www.kiwibank.co.nz/personal-banking/",
+      },
+      testMatch: ["**/tests/AccessibilityTest/*.spec.js"]
+    },
+    {
+      name: 'VT',
+      use: {
+        ...devices['Desktop Chrome'], 
+        baseURL: "https://www.kiwibank.co.nz/personal-banking/",
+      },
+      testMatch: ["**/tests/VisualTest/*.spec.js"]
+    },
+
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] ,
